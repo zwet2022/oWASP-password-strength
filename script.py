@@ -1,6 +1,6 @@
 import requests
 
-url = "http://10.10.53.198/rest/user/login"
+url = "http://127.0.0.1:43000/rest/user/login"
 
 email = "admin@juice-sh.op"		
 
